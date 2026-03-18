@@ -1,0 +1,3 @@
+{"level":"warn","message":"GET en /users/login - at 3/17/2026 - 8:42:25 PM"}
+{"level":"warn","message":"GET en /logger - at 3/17/2026 - 8:42:32 PM"}
+{"level":"warn","message":"Prueba de log level warn --> en Endpoint"}
